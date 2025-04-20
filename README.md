@@ -1,3 +1,3 @@
 # Learn-With-Me
-This is my first Git Repository
+This is my first Git Repository,
 Author-Trishna Gupta

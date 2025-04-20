@@ -1,4 +1,4 @@
 # Learn-With-Me
-This is my first Git Repository
+<b>This is my first Git Repository
 <br>
-Author-Trishna Gupta
+Author-Trishna Gupta</b>
